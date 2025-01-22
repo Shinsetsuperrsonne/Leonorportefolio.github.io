@@ -1,4 +1,5 @@
-import path from 'path';
+import yarn upgrade astro --latest
+path from 'path';
 import { fileURLToPath } from 'url';
 
 import { defineConfig } from 'astro/config';

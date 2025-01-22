@@ -32,7 +32,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/shint/AppData/Roaming/JetBrains/Rider2024.3/node/versions/22.13.1/node",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\JetBrains Rider 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Users\\shint\\Documents\\GitHub\\Leonorportefolio.github.io\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737536115504</updated>
-      <workItem from="1737536120017" duration="1083000" />
+      <workItem from="1737536120017" duration="1425000" />
     </task>
     <servers />
   </component>
